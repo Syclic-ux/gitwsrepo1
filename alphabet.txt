@@ -2,4 +2,5 @@ ABCDEFG
 HIJK
 QRS
 LMNOP
+WXY and Z
 Now i know my ABC's
